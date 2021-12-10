@@ -6,7 +6,7 @@ My journey learning Rust
 
 ## 📚 Index
 - [About me](https://github.com/DvdDuarte/DvdDuarte/blob/main/README.md#about-me)
-- [🛠 Tools i use in this journey](https://github.com/DvdDuarte#-tools-i-use)
+- [🛠 Tools i use in this journey](https://github.com/DvdDuarte/Rust/blob/main/README.md#-tools-i-use-in-this-journey)
 - [📖 Day 1]()
 
 
