@@ -1,0 +1,1 @@
+/home/sleiman/Rust/rustlings/target/release/rustlings: /home/sleiman/Rust/rustlings/src/exercise.rs /home/sleiman/Rust/rustlings/src/lib.rs /home/sleiman/Rust/rustlings/src/main.rs /home/sleiman/Rust/rustlings/src/run.rs /home/sleiman/Rust/rustlings/src/ui.rs /home/sleiman/Rust/rustlings/src/verify.rs
