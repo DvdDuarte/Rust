@@ -9,6 +9,9 @@ My journey learning Rust
 - [🛠 Tools i use in this journey](https://github.com/DvdDuarte/Rust/blob/main/README.md#-tools-i-use-in-this-journey)
 - [📖 Day 1]()
 
+### Resources
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rust Book](https://doc.rust-lang.org/book/index.html)
 
 ### 🛠 Tools i use in this journey:
 - [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
